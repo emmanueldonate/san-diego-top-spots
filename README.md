@@ -1,0 +1,1 @@
+~ San Diego Top Spots application built using React. Open using localHost.
